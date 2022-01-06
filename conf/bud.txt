@@ -1,0 +1,1 @@
+{'stragan': 0, 'sklep': 0, 'warsztat': 0, 'fabryka': 0, 'swiatynia': 0, 'fumo': 0, 'RMCGEN': 0}

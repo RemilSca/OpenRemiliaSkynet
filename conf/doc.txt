@@ -1,0 +1,1 @@
+{'stragan': 150, 'sklep': 500, 'warsztat': 1200, 'fabryka': 4000, 'swiatynia': 15000, 'fumo': 25000, 'RMCGEN': 50000}
